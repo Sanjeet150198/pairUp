@@ -1,0 +1,10 @@
+# For First Evaluation
+
+FOLLOWING THINGS HAS BEEN CREATED
+
+1. Login Page of user.
+2. Signup page of user.
+3. Database
+4. Dashboard
+5. Profile page of user.
+6. Edit Profile page
